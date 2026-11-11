@@ -61,24 +61,26 @@ I’m working on projects that bring together my interests in web development an
 
 ---
 
-## GitHub activity
+#GitHub Activity
 
-<p align="center">A snapshot of my contributions, most-used languages, and coding streak.</p>
+<h2 align="center">📊 GitHub Activity Overview</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Joby09050&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub activity graph"
+  />
+</p>
 
-<a href="https://github.com/Joby09050">
-  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api?username=Joby09050&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Joby09050">
-  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joby09050&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-</a>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joby09050&theme=github_dark"
+    width="100%"
+    alt="GitHub profile activity summary"
+  />
+</p>
 
-<br />
-
-[![GitHub contribution streak](https://streak-stats.demolab.com?user=Joby09050&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
